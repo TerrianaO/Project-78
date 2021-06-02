@@ -1,0 +1,45 @@
+body {
+    background-color: #eee;
+}
+
+.main-question {
+    padding: 25px;
+    text-align: center;
+    color: #a00000;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 30px;
+}
+
+h3 {
+    color: red;
+    font-family: 'Stylish', sans-serif;
+}
+
+button {
+    margin: 15px;
+    width: 200px;
+    padding: 15px;
+    color: blue;
+    background-color: pink;
+}
+
+.results {
+    margin: 20px;
+    padding: 20px;
+    border: dotted 5px #4B0082;
+    display: none;
+
+}
+
+img {
+    width: 50%;
+    display: none;
+}
+.chips-apple{
+	display: flex;
+    justify-content: space-between;
+}
+.soda-gum{
+	display: flex;
+    justify-content: space-between;
+}
